@@ -1,0 +1,24 @@
+{
+    "total_files_scanned": 6,
+    "total_duplicate_files": 4,
+    "total_duplicate_groups": 2,
+    "total_duplicate_size": 127006,
+    "duplicate_groups": [
+        {
+            "checksum": "45db6451333043fa51603842e72993936a076f6e4c36f3d5a384d726e4e866cc",
+            "size": 63500,
+            "files": [
+                "test_data\\1mg1_1.png",
+                "test_data\\img1_1.png"
+            ]
+        },
+        {
+            "checksum": "c26f41151e1217ed83533017accf61fcf80a8804c23ff21f61cfbc4e4d68d592",
+            "size": 3,
+            "files": [
+                "test_data\\file1.txt",
+                "test_data\\file2.txt"
+            ]
+        }
+    ]
+}
